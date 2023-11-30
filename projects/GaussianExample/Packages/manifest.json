@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "com.unity.collab-proxy": "2.1.0",
     "com.unity.ide.rider": "3.0.26",
+    "com.unity.services.cloudsave": "3.0.0",
     "org.nesnausk.gaussian-splatting": "file:../../../package",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
